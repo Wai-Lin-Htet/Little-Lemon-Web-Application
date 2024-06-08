@@ -1,7 +1,3 @@
-# Back-End-Developer-Capstone
-META Back-End Developer Course Capstone Project implemented by Wai
-Please, see Readme.txt file for review process in Week4 of the course.
-
 #Peer-graded Assignment: Little Lemon Web Application
 #Hello, my name is WLH
 
